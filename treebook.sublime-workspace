@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"proto",
+				"Prototypes"
+			],
+			[
+				"P",
+				"Person"
+			],
+			[
+				"pers",
+				"personPrototype"
+			],
+			[
+				"jim",
+				"jimGreet"
+			],
+			[
+				"add",
+				"addEventListener  (function)"
+			],
+			[
+				"call",
+				"callTwice"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"type",
+				"typeof  (keyword)"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"m",
+				"my_array"
+			],
+			[
+				"Ron",
+				"random  (function)"
+			],
+			[
+				"par",
+				"part2  (variable)"
+			],
+			[
+				"sta",
+				"statement3"
+			],
+			[
+				"ta",
+				"target	@target"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: te",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"ftp",
+				"FTPSync: Check current file"
+			],
+			[
+				"Snippet: ",
+				"Snippet: nav - Placeholder"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"con",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 172.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ericmiller/Sites/labs/treebook/app/views/layouts/application.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/app/views/statuses/_form.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/app/views/devise/sessions/new.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/app/models/user.rb",
+		"/Users/ericmiller/Sites/labs/treebook/app/views/statuses/index.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/app/views/statuses/show.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/app/models/status.rb",
+		"/Users/ericmiller/Sites/labs/treebook/app/views/devise/registrations/edit.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/Gemfile",
+		"/Users/ericmiller/Sites/labs/treebook/db/migrate/20121204145350_add_user_id_to_statuses.rb",
+		"/Users/ericmiller/Sites/labs/treebook/app/views/devise/registrations/new.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/db/migrate/20121204143417_devise_create_users.rb",
+		"/Users/ericmiller/Sites/labs/treebook/config/application.rb",
+		"/Users/ericmiller/Sites/labs/treebook/config/routes.rb",
+		"/Users/ericmiller/Sites/labs/treebook/config/environments/development.rb",
+		"/Users/ericmiller/Sites/labs/treebook/.gitignore",
+		"/Users/ericmiller/Sites/labs/treebook/app/assets/javascripts/statuses.js.coffee",
+		"/Users/ericmiller/Sites/labs/treebook/app/assets/stylesheets/statuses.css.scss",
+		"/Users/ericmiller/Sites/labs/treebook/app/assets/stylesheets/application.css",
+		"/Users/ericmiller/Sites/labs/treebook/app/views/statuses/new.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/app/views/statuses/edit.html.erb",
+		"/Users/ericmiller/Sites/labs/treebook/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/ericmiller/Sites/room8/A_FrontEnd_EM/profile.html",
+		"/Users/ericmiller/Sites/room8/A_FrontEnd_EM/index.html",
+		"/Users/ericmiller/Sites/room8/A_FrontEnd_EM/js/plugins.js",
+		"/Users/ericmiller/Sites/room8/A_FrontEnd_EM/indexA.html",
+		"/Users/ericmiller/Sites/room8/index.html",
+		"/Users/ericmiller/Dropbox/zLab/sencha-touch-2.0.0-commercial/command/vendor/nodejs/node_modules/jasmine-node/node_modules/jasmine-reporters/ext/env.rhino.1.2.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/jsFunctions.html",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/objects.js",
+		"/Users/ericmiller/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/functions.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/index.html",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/jsFoundations.html",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/arrays.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/numbers.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/javaScriptFoundations.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/strings.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/myScript.js",
+		"/Users/ericmiller/Sites/labs/javaBasics/index.html",
+		"/Users/ericmiller/Sites/labs/javaBasics/myScript.js",
+		"/Users/ericmiller/Sites/labs/index.html",
+		"/Users/ericmiller/Sites/zDefault/index.html",
+		"/Users/ericmiller/Sites/zRails_Demo/public/index.html",
+		"/Users/ericmiller/Sites/zRails_Demo/config/database.yml",
+		"/Users/ericmiller/Sites/zRails_Demo/Gemfile",
+		"/Users/ericmiller/Sites/zRails_Demo/app/views/welcome/index.html.erb",
+		"/Users/ericmiller/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ericmiller/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/ericmiller/Sites/zRails_Demo/config/routes.rb",
+		"/Users/ericmiller/Desktop/Labs/viewTeacher.html",
+		"/Users/ericmiller/Desktop/Labs/viewStudent.html",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/viewStudent.html",
+		"/Users/ericmiller/Downloads/category.php",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/viewDetail.html",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/MyData/MyData-widget.png",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/css/style.css",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/ftpsync.settings",
+		"/Users/ericmiller/Library/Application Support/Sublime Text 2/Packages/FTPSync/ftpsync.sublime-settings",
+		"/Users/ericmiller/Downloads/236.rss",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/viewTeacher.html",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/index.html",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/js/ftpsync.settings",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/robots.txt",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/readme.md",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/humans.txt",
+		"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs/404.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/ericmiller/Dropbox/Shared/Bookend (Shared)/Product Design/Labs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn",
+			"img",
+			"Tutor-Profile.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gemf",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
