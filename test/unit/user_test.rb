@@ -41,8 +41,8 @@ class UserTest < ActiveSupport::TestCase
     user = User.new(first_name: "Jane", last_name: "Doe", email: "test987@domain.com")
     user.password = user.password_confirmation = "asdfasdf"
 
-    user.profile_name = "testuser_2"
-    assert user.valid?
+    user.profile_name = "testuser_99"
+    assert user.valid?  #!?
   end
 
 end
