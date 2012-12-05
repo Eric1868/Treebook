@@ -160,6 +160,7 @@
 	},
 	"file_history":
 	[
+		"/Users/ericmiller/Sites/labs/treebook/Gemfile",
 		"/Users/ericmiller/Sites/labs/treebook/app/views/layouts/application.html.erb",
 		"/Users/ericmiller/Sites/labs/treebook/app/views/statuses/_form.html.erb",
 		"/Users/ericmiller/Sites/labs/treebook/app/views/devise/sessions/new.html.erb",
@@ -168,7 +169,6 @@
 		"/Users/ericmiller/Sites/labs/treebook/app/views/statuses/show.html.erb",
 		"/Users/ericmiller/Sites/labs/treebook/app/models/status.rb",
 		"/Users/ericmiller/Sites/labs/treebook/app/views/devise/registrations/edit.html.erb",
-		"/Users/ericmiller/Sites/labs/treebook/Gemfile",
 		"/Users/ericmiller/Sites/labs/treebook/db/migrate/20121204145350_add_user_id_to_statuses.rb",
 		"/Users/ericmiller/Sites/labs/treebook/app/views/devise/registrations/new.html.erb",
 		"/Users/ericmiller/Sites/labs/treebook/db/migrate/20121204143417_devise_create_users.rb",
