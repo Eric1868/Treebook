@@ -10,3 +10,9 @@ testuser_2:
   first_name: "Jane"
   last_name: "Doe"
   email: "test987@domain.com"
+
+testuser_3:
+  profile_name: "testuser_3"
+  first_name: "Mike"
+  last_name: "Frog"
+  email: "mike@domain.com"  
